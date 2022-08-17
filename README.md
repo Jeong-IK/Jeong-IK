@@ -17,6 +17,6 @@ Phone : 010-7695-2378
 [![Tech Blog Badge](http://img.shields.io/badge/-velog-green?style=flat-square&logo=velog&link=https://velog.io/@han1368)](https://velog.io/@han1368)
 
 ### 🥽 Plan
-TypeScript 보완
-React 최적화
-Flutter 
+* TypeScript 보완
+* React 최적화
+* Flutter 
