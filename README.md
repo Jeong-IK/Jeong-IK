@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=7cc0ff&height=300&section=header&text=Welcome!%20My%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=7cc0ff&height=300&section=header&text=Welcome!%20My%20Github&fontSize=80)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-IK&count_bg=%236CC3D7&title_bg=%23B4AFAF&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
  
